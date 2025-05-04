@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yashroxx007
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning web design and development
+- 👋 Hi, I’m Yashwanth
+- 👀 I’m interested in the world of Data
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on dev projects
 - 📫 Contact me at yashroxx0087@gmail.com
 
